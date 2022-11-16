@@ -9,12 +9,12 @@ var oddOrEven = function(num) {
     // if remainder !== 0
     if (remainder !== 0) {
         // string 'odd'
-        return 'Odd';
+        return 'odd';
     }
     // else
     else {
         // string 'even'
-        return 'Even';
+        return 'even';
     }
 
 };
